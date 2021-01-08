@@ -44,6 +44,7 @@ body {
     background-color: transparent;
     border: none;
     cursor: pointer;
+    /* position: fixed; */
     color: rgb(241, 230, 230);
     font-size: 1rem;
     margin-left: 0.5rem;
